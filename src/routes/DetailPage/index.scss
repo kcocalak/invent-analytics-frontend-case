@@ -1,0 +1,41 @@
+.content{
+    padding: 40px;
+    height: 100vh;
+
+}
+.button{
+    margin: 40px;
+}
+b{
+    margin-right: 4px;
+}
+.row{
+    width: 100%;
+    line-height: 24px;
+    padding-right: 16px;
+}
+.content-row{
+    height: 85vh;
+    display: flex;
+    align-items: center;
+    padding-right: 16px;
+    justify-content: center;
+}
+.image-col{
+    display: flex;
+    justify-content: center;
+    max-width: 100%;
+}
+.image{
+    border-radius: 8px;
+    width: 60%;
+}
+.no-image{
+    width: fit-content;
+}
+.awards-span{
+    background: burlywood;
+    border-radius: 4px;
+    padding: 4px;
+
+}
