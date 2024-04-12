@@ -2,7 +2,7 @@
 
 ## Installation and Run
 
-1. Clone project: `git clone https://github.com/kcocalak/proje.git`
+1. Clone project: `git clone https://github.com/kcocalak/invent-analytics-frontend-case.git`
 2. Navigate to the project directory: `cd proje`
 3. Generate API key from `www.omdbapi.com/apikey.aspx`
 4. Create `.env` file and write `VITE_OMDb_API_KEY=[your api key]`
